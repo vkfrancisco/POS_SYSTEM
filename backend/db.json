@@ -1,0 +1,46 @@
+{
+    "products":[
+        {
+            "id": 123,
+            "name":"mocha",
+            "price":"2",
+            "image":"https://images.pexels.com/photos/2836945/pexels-photo-2836945.jpeg?auto=compress&cs=tinysrgb&w=400"
+        },
+        {
+            "id": 223,
+            "name":"latte",
+            "price":"2",
+            "image":"https://images.pexels.com/photos/129207/pexels-photo-129207.jpeg?auto=compress&cs=tinysrgb&w=400"
+        },
+        {
+            "id": 323,
+            "name":"Cappuccino",
+            "price":"5",
+            "image":"https://images.pexels.com/photos/585753/pexels-photo-585753.jpeg?auto=compress&cs=tinysrgb&w=400"
+        },
+        {
+            "id": 423,
+            "name":"Espresso",
+            "price":"3",
+            "image":"https://images.pexels.com/photos/1695052/pexels-photo-1695052.jpeg?auto=compress&cs=tinysrgb&w=400"
+        },
+        {
+            "id": 523,
+            "name":"macchiato",
+            "price":"2",
+            "image":"https://images.pexels.com/photos/129207/pexels-photo-129207.jpeg?auto=compress&cs=tinysrgb&w=400"
+        },
+        {
+            "id": 623,
+            "name":"Americano",
+            "price":"3",
+            "image":"https://images.pexels.com/photos/585753/pexels-photo-585753.jpeg?auto=compress&cs=tinysrgb&w=400"
+        },
+        {
+            "id": 723,
+            "name":"Americano",
+            "price":"3",
+            "image":"https://images.pexels.com/photos/585753/pexels-photo-585753.jpeg?auto=compress&cs=tinysrgb&w=400"
+        }
+    ]
+}
